@@ -10,3 +10,4 @@ else
     print("invalid Place")
     game.Players.LocalPlayer:Kick("Ur script dont support this shit ass game")
 end
+--aa
