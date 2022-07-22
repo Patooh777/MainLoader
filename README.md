@@ -1,5 +1,3 @@
-setclipboard("https://discord.gg/UZFVfYdKnY")
-
 local ASSID = 8950974597
 local SSID = 5055081323
 local GameID = game.PlaceId
