@@ -8,7 +8,7 @@ if (GameID == ASSID) then
 elseif (GameID == SSID) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Patooh777/Swordman-Simulator/SunsetXHub/README.md"))()
 elseif (GameID == AEVO) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ThroySunsetX/SunsetX/main/SunsetXFree"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Patooh777/Anime-Evolution-Sim-/SunsetXHub/README.md"))()
 else
     print("invalid Place")
     game.Players.LocalPlayer:Kick("Ur script dont support this shit ass game")
